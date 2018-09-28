@@ -61,3 +61,4 @@ asyncio能用
 *  [Deploying a Brython application](https://brython.info/static_doc/en/deploy.html)
 *  [svg pie](http://brython.info/gallery/svg_pie_chart.html)
 *  [turtle](http://brython.info/gallery/turtle.html): 直接使用python替代js，连用户输入都用python获取
+*  [classroom](https://github.com/brython-dev/brython-in-the-classroom): 减少教师和学生访问python资源的负担
